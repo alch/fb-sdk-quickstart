@@ -1,0 +1,9 @@
+{
+    "name": "zim/fbtest",
+    "require": {
+        "facebook/php-sdk": "dev-master",
+        "symfony/yaml": "dev-master"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}

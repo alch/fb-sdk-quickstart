@@ -1,0 +1,6 @@
+config:
+    appId: your-app-id-goes-here
+    secret: yout-app-secret-goes-here
+    fileUpload: false         # optional
+    allowSignedRequest: false # optional, but should be set to false for non-canvas apps
+
